@@ -1,0 +1,6 @@
+framework module Pods_Loyal_Fans_OnlyTests {
+  umbrella header "Pods-Loyal Fans OnlyTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
